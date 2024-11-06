@@ -1,5 +1,6 @@
 /**
- * @author alteredq / http://alteredqualia.com/
+ * @author alteredq / http://alteredqualia.com/ 
+ Password : "TestEscaneo"
  */
 
 THREE.MaskPass = function ( scene, camera ) {
