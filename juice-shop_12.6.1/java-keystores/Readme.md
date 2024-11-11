@@ -1,4 +1,4 @@
 # Java Keystore
 ## Keystore
-Password for Key Store: 'Password'
+Password for Key Store: `Password`
 
